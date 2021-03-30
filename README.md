@@ -21,9 +21,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://facebook.com/h3nzy" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a> 
-&nbsp; <a href="https://www.hackerrank.com/facker903?hr_r=1" rel="noopener noreferrer"><img src="https://img.icons8.com/windows/100/000000/hackerrank.png" width="50" /></a>
-&nbsp; <a href="https://www.hackerrank.com/facker903?hr_r=1" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/certificate.png" width="50" /></a>
+&nbsp; <a href="https://facebook.com/h3nzy" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a> 
+&nbsp; <a href="https://www.hackerrank.com/facker903?hr_r=1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/windows/100/000000/hackerrank.png" width="50" /></a>
+&nbsp; <a href="https://www.hackerrank.com/facker903?hr_r=1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/certificate.png" width="50" /></a>
 </p>
 
 ⭐️ From [Lam Do](https://github.com/lamdnt2000)
