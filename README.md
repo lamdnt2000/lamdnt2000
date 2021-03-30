@@ -16,6 +16,13 @@
 - 🛢 &nbsp; SQL Server | Tomcat
 - 🔧 &nbsp; NetBean | Visual Studio code | intelliJ | Git
 
+<h3>:muscle: 2021 target</h3>
+
+- [ ] Internship at company
+- [ ] Improve code quality
+- [ ] Spring Framework
+- [ ] RESTful API
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamdnt2000&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
