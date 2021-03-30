@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying at FPT University.
-- :technologist:	 &nbsp; Web developer and back-end web developer.
+- :technologist:	 &nbsp; Back-end web developer.
 - ☕ &nbsp; Please give me more, because only one not enough to focus on work.
 
 <h3>🛠 Tech Stack</h3>
