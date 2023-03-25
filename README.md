@@ -23,7 +23,7 @@
 - [ ] Spring Framework
 - [ ] RESTful API
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamdnt2000&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamdnt2000&hide=javascript,html,css&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
